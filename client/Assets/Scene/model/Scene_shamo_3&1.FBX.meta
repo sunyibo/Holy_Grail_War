@@ -1,0 +1,102 @@
+fileFormatVersion: 2
+guid: 114cd0a3cb8264744bd8d66d37acf105
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Scene_shamo_a1
+    100004: Scene_shamo_b1
+    100006: Scene_shamo_c1
+    100008: Scene_shamo_c2
+    100010: Scene_shamo_d1
+    100012: obj_door_tiemen_2
+    100014: Scene_shamo_e
+    100016: Scene_goldroom_b1
+    400000: //RootNode
+    400002: Scene_shamo_a1
+    400004: Scene_shamo_b1
+    400006: Scene_shamo_c1
+    400008: Scene_shamo_c2
+    400010: Scene_shamo_d1
+    400012: obj_door_tiemen_2
+    400014: Scene_shamo_e
+    400016: Scene_goldroom_b1
+    2300000: Scene_shamo_a1
+    2300002: Scene_shamo_b1
+    2300004: Scene_shamo_c1
+    2300006: Scene_shamo_c2
+    2300008: Scene_shamo_d1
+    2300010: obj_door_tiemen_2
+    2300012: Scene_shamo_e
+    2300014: Scene_goldroom_b1
+    3300000: Scene_shamo_a1
+    3300002: Scene_shamo_b1
+    3300004: Scene_shamo_c1
+    3300006: Scene_shamo_c2
+    3300008: Scene_shamo_d1
+    3300010: obj_door_tiemen_2
+    3300012: Scene_shamo_e
+    3300014: Scene_goldroom_b1
+    4300000: Scene_shamo_a1
+    4300002: Scene_shamo_b1
+    4300004: Scene_shamo_c1
+    4300006: Scene_shamo_c2
+    4300008: Scene_shamo_d1
+    4300010: obj_door_tiemen_2
+    4300012: Scene_shamo_e
+    4300014: Scene_goldroom_b1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
